@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f92e1f7-86ac-498d-a473-f0f116d541c6" name="Default Changelist" comment="" />
+    <list default="true" id="7f92e1f7-86ac-498d-a473-f0f116d541c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KMSClient.spec" beforeDir="false" afterPath="$PROJECT_DIR$/KMSClient.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KMSClient_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/KMSClient_UI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KMSClient_UI.ui" beforeDir="false" afterPath="$PROJECT_DIR$/KMSClient_UI.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Threads.py" beforeDir="false" afterPath="$PROJECT_DIR$/Threads.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,17 +35,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
   <component name="ProjectId" id="1QbpV4xRs6xFyaLljWjCNqzJN5N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NetSpeedBar" />
+    <property name="last_opened_file_path" value="D:/Python/3/Scripts/pyuic5.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,24 +125,41 @@
       <workItem from="1569316073019" duration="37000" />
       <workItem from="1569328580747" duration="613000" />
       <workItem from="1569374805362" duration="84000" />
+      <workItem from="1570713072378" duration="1245000" />
+      <workItem from="1571057565206" duration="11000" />
+      <workItem from="1571057611836" duration="213000" />
+      <workItem from="1571142989770" duration="61000" />
+      <workItem from="1571144164242" duration="580000" />
+      <workItem from="1571835810724" duration="223000" />
+      <workItem from="1571904081073" duration="166000" />
+      <workItem from="1571904399268" duration="4000" />
+      <workItem from="1572253300185" duration="4000" />
+      <workItem from="1573220551994" duration="250000" />
+      <workItem from="1573220815191" duration="36000" />
+      <workItem from="1573221646311" duration="49000" />
+      <workItem from="1573647393131" duration="281000" />
+      <workItem from="1573647701368" duration="1262000" />
+      <workItem from="1573649754536" duration="339000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/KMSClient.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/KMSClient$KMSClient.coverage" NAME="KMSClient Coverage Results" MODIFIED="1569316074899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/KMSClient$KMSClient.coverage" NAME="KMSClient Coverage Results" MODIFIED="1573648674287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

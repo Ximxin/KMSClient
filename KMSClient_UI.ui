@@ -23,6 +23,12 @@
       <height>61</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>ADMUI3Lg</family>
+      <pointsize>8</pointsize>
+     </font>
+    </property>
     <property name="text">
      <string>查看Windows版本</string>
     </property>
@@ -36,6 +42,12 @@
       <height>61</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <family>ADMUI3Lg</family>
+      <pointsize>8</pointsize>
+     </font>
+    </property>
     <property name="text">
      <string>激活Windows</string>
     </property>
@@ -48,6 +60,12 @@
       <width>111</width>
       <height>61</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>ADMUI3Lg</family>
+      <pointsize>8</pointsize>
+     </font>
     </property>
     <property name="text">
      <string>激活Office</string>

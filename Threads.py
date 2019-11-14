@@ -62,7 +62,7 @@ class Threads(QThread):
             time.sleep(1)
             self.AotStepTwoSignal.emit(33)
             tempinfo = "正在激活：\n" + \
-                       str(os.popen("cscript " + Path + "ospp.vbs /sethst:kms03k.org").read()) + "\n" + \
+                       str(os.popen("cscript " + Path + "ospp.vbs /sethst:kms.03k.org").read()) + "\n" + \
                        str(os.popen("cscript " + Path + "ospp.vbs /act").read()) + "\n" + \
                        "激活完毕！\n" + \
                        "激活信息：\n" + \

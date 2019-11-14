@@ -7,9 +7,6 @@
 # WARNING! All changes made in this file will be lost!
 
 
-import sys, os
-if hasattr(sys, 'frozen'):
-    os.environ['PATH'] = sys._MEIPASS + ";" + os.environ['PATH']
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 
@@ -21,12 +18,24 @@ class Ui_MainWindow(object):
         self.centralwidget.setObjectName("centralwidget")
         self.ViewWindows = QtWidgets.QPushButton(self.centralwidget)
         self.ViewWindows.setGeometry(QtCore.QRect(30, 30, 111, 61))
+        font = QtGui.QFont()
+        font.setFamily("ADMUI3Lg")
+        font.setPointSize(8)
+        self.ViewWindows.setFont(font)
         self.ViewWindows.setObjectName("ViewWindows")
         self.ActivationWindows = QtWidgets.QPushButton(self.centralwidget)
         self.ActivationWindows.setGeometry(QtCore.QRect(170, 30, 111, 61))
+        font = QtGui.QFont()
+        font.setFamily("ADMUI3Lg")
+        font.setPointSize(8)
+        self.ActivationWindows.setFont(font)
         self.ActivationWindows.setObjectName("ActivationWindows")
         self.ActivationOffice = QtWidgets.QPushButton(self.centralwidget)
         self.ActivationOffice.setGeometry(QtCore.QRect(310, 30, 111, 61))
+        font = QtGui.QFont()
+        font.setFamily("ADMUI3Lg")
+        font.setPointSize(8)
+        self.ActivationOffice.setFont(font)
         self.ActivationOffice.setObjectName("ActivationOffice")
         self.ActivationState = QtWidgets.QTextBrowser(self.centralwidget)
         self.ActivationState.setGeometry(QtCore.QRect(30, 180, 391, 161))
