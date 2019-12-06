@@ -2,11 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f92e1f7-86ac-498d-a473-f0f116d541c6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/KMSClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/KMSClient.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KMSClient.py" beforeDir="false" afterPath="$PROJECT_DIR$/KMSClient.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KMSClient.spec" beforeDir="false" afterPath="$PROJECT_DIR$/KMSClient.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KMSClient_UI.py" beforeDir="false" afterPath="$PROJECT_DIR$/KMSClient_UI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KMSClient_UI.ui" beforeDir="false" afterPath="$PROJECT_DIR$/KMSClient_UI.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Threads.py" beforeDir="false" afterPath="$PROJECT_DIR$/Threads.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/COLLECT-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/COLLECT-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/KMSClient.exe" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/KMSClient.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/warn-KMSClient.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/warn-KMSClient.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/KMSClient/xref-KMSClient.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/KMSClient/xref-KMSClient.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/KMSClient.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/KMSClient.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/bin/libEGL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/bin/libEGL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/bin/libGLESv2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/bin/libGLESv2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/iconengines/qsvgicon.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/iconengines/qsvgicon.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qgif.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qgif.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qicns.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qicns.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qico.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qico.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qjpeg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qjpeg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qsvg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qsvg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qtga.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qtga.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qtiff.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qtiff.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qwbmp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qwbmp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qwebp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/imageformats/qwebp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/platforms/qminimal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/platforms/qminimal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/platforms/qoffscreen.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/platforms/qoffscreen.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/platforms/qwebgl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/platforms/qwebgl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/platforms/qwindows.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/platforms/qwindows.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/platformthemes/qxdgdesktopportal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/platformthemes/qxdgdesktopportal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/styles/qwindowsvistastyle.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/Qt/plugins/styles/qwindowsvistastyle.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/QtCore.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/QtCore.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/QtGui.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/QtGui.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/QtWidgets.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/PyQt5/QtWidgets.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/PyQt5/sip.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/Qt5Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/Qt5Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/Qt5DBus.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/Qt5DBus.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/Qt5Gui.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/Qt5Gui.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/Qt5Network.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/Qt5Network.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/Qt5Qml.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/Qt5Qml.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/Qt5Quick.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/Qt5Quick.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/Qt5Svg.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/Qt5Svg.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/Qt5WebSockets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/Qt5WebSockets.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/Qt5Widgets.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/Qt5Widgets.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/_bz2.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/_bz2.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/_ctypes.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/_ctypes.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/_hashlib.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/_hashlib.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/_lzma.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/_lzma.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/_socket.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/_socket.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/_ssl.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/_ssl.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/libGLESv2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/libGLESv2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/libcrypto-1_1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/libcrypto-1_1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/libssl-1_1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/libssl-1_1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/pyexpat.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/pyexpat.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/python3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/python3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/python37.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/python37.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/select.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/select.pyd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/sip.pyd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/KMSClient/unicodedata.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/dist/KMSClient/unicodedata.pyd" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,14 +104,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/Python/3/Scripts/pyuic5.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,9 +133,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="E:\Documents\PyCharmProject\KMSClient\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />

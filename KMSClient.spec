@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['KMSClient.py'],
-             pathex=['KMSClicent_UI.py', 'Threads.py', 'E:\\Documents\\PyCharmProject\\KMSClient'],
+             pathex=['KMSClient_UI.py', 'Threads.py', 'E:\\PycharmProjects\\KMSClient'],
              binaries=[],
              datas=[],
              hiddenimports=[],
