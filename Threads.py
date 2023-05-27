@@ -13,7 +13,7 @@ OFFICEREGPATH = ["SOFTWARE\\Microsoft\\Office\\14.0\\Common\\InstallRoot",
                  "SOFTWARE\\Microsoft\\Office\\16.0\\Common\\InstallRoot"]
 SYSTEMPATH = 'C:\\Windows\\System32\\'
 MAINEXEC = ['KMSService-x86.exe', 'KMSService-x64.exe']
-KMSSERVICE = "kms.domain.comple or ip address"
+KMSSERVICE = "kms.03k.org"
 
 class Threads(QThread):
     AotFinishSignal = pyqtSignal(int)
